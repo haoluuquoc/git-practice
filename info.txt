@@ -1,5 +1,5 @@
 Sở thích: chơi game
-Mon an yeu thich : com chien hai san
+Món ăn yêu thích: cơm chiên hải sản
 
 git add info.txt
 git commit -m "Add personal info"
