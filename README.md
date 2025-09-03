@@ -1,4 +1,3 @@
-# ban tha n
-ho ten : luu quoc hao 
-mssv : 227020
-gioi tinh : nam 
+# ban than
+- ** ho ten :**  luu quoc hao .
+- ** gioi tinh :**  nam 
