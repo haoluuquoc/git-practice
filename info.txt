@@ -1,8 +1,2 @@
 Sở thích: chơi game
 Món ăn yêu thích: cơm chiên hải sản
-
-git add info.txt
-git commit -m "Add personal info"
-git checkout main
-git merge add-info
-git push
